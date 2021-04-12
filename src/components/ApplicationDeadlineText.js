@@ -1,6 +1,6 @@
 import React, { useMemo } from "react";
 
-const PIVOT_APPS_DEADLINE_DATE = new Date(`2021-01-22T23:59`);
+const PIVOT_APPS_DEADLINE_DATE = new Date(`2021-05-22T23:59`);
 
 /*
  * Components versions of the dealine text
